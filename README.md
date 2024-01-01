@@ -19,7 +19,7 @@
 </div>
 
 ###
-
+<!--
 <h3 align="left">Stats</h3>
 
 ###
@@ -27,5 +27,5 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Gierak&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
-
+-->
 ###
